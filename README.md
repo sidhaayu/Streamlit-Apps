@@ -81,12 +81,6 @@ How It Works
 
 ---
 
-##  Author
 
-**[Pratik_Bhuwad]**  
-📧 [pratikbhuwad192k4@gmail.com]  
-🔗 [www.linkedin.com/in/pratik-bhuwad-a62576293]
-
----
 
 > This project is a great example of combining business intelligence, NLP, and AI to support data-driven decision-making.
